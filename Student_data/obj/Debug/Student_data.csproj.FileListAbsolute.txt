@@ -1,0 +1,8 @@
+D:\PracticeExercise\Student_data\Student_data\bin\Debug\Student_data.exe.config
+D:\PracticeExercise\Student_data\Student_data\bin\Debug\Student_data.exe
+D:\PracticeExercise\Student_data\Student_data\bin\Debug\Student_data.pdb
+D:\PracticeExercise\Student_data\Student_data\obj\Debug\Student_data.csproj.AssemblyReference.cache
+D:\PracticeExercise\Student_data\Student_data\obj\Debug\Student_data.csproj.SuggestedBindingRedirects.cache
+D:\PracticeExercise\Student_data\Student_data\obj\Debug\Student_data.csproj.CoreCompileInputs.cache
+D:\PracticeExercise\Student_data\Student_data\obj\Debug\Student_data.exe
+D:\PracticeExercise\Student_data\Student_data\obj\Debug\Student_data.pdb

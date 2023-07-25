@@ -1,0 +1,44 @@
+Student id :101
+Name : Shashank
+Age : 24
+Grade : A
+
+Student id : 102
+Name : Sadashiva
+Age : 23
+Grade : B
+
+Student id : 103
+Name : Lakshmi
+Age : 25
+Grade : A+
+
+Student id : 104
+Name : Bhumika
+Age : 20
+Grade : B+
+
+Student id : 105
+Name : Rani
+Age : 23
+Grade : A+
+
+Student id : 106
+Name : Kokoila
+Age : 22
+Grade : A+
+
+Student id : 107
+Name : Pankaja
+Age : 26
+Grade : B
+
+Student id : 108
+Name : Sagar
+Age : 24
+Grade : B+
+
+Student id : 109
+Name : Karthik
+Age : 25
+Grade : A+

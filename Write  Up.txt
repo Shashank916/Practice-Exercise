@@ -1,0 +1,28 @@
+
+1.The code defines a Student class with properties like Student id,Name, Age, and Grade. These properties will be used to store the information of each student.
+
+2.The Program class contains the Main method, which is the entry point of the program.
+
+3.It declares a variable filePath to store the name of the file from which student data will be read. In this case we enter the file path from user.
+
+4. The try block is used to handle exceptions like given file path exsist or not.If File path not exist then it throws exception.
+
+5.If else block is used to  read all lines from the file specified in filePath using File.ReadAllLines and stores them in the lines array. Intialization of student data declared null at the fist time.
+
+6.The program iterates over each line in the lines array using a foreach loop. In this Loop we declare 2 Rows that specified Lable(name,id,Grade,age) and Values.
+
+7.Inside the loop, it checks each line to determine whether it contains information about the student's Id,name, age, and grade.If the condition is true the loop will iterate otherwise else if block executed.
+
+8.If a line starts with "Id: ", it indicates the start of a new student record. A new Student object is created, and the id of the student is extracted from the line and assigned to the currentStudent variable.
+
+9.If a line starts with "Name: ", the name of the student is extracted from the line and assigned to the currentStudent variable.
+
+10.If a line starts with "Age: ", the program attempts to parse the age information from the line and stores it in the currentStudent's Age property.
+
+11.If a line starts with "Grade: ", the program attempts to parse the grade information from the line and stores it in the currentStudent's Grade property.
+
+12.After reading all the information (Id,name, age, and grade) for a single student, the completed currentStudent is added to the students list.
+
+13.After processing all the lines, the program has collected a list of Student objects representing all the students read from the file. And it prints the Id, name, age, and grade on the console.
+
+
